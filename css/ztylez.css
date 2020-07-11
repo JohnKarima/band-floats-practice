@@ -1,0 +1,18 @@
+.onex {
+  border: red;
+  width: 33%;
+  float: left;
+  background-color: darkblue;
+}
+.twox {
+  border: royalblue;
+  width: 33%;
+  float: left;
+  background-color: red;
+}
+.threex {
+  border: salmon;
+  width: 33%;
+  float: left;
+  background-color: purple;
+}

@@ -1,0 +1,17 @@
+.intro {
+  float: left;
+  color: blue;
+  background-color: coral;
+  width: 33.3%;
+  float: left;
+}
+.imagegang {
+  width: 33.3%;
+  float: left;
+  background-color: darkblue;
+}
+.shows {
+  width: 33.3%;
+  float: right;
+  background-color: yellow;
+}
